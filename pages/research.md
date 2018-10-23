@@ -6,6 +6,7 @@ description: Hai-Tao Yu's research
 - <a href="#ir">Research Topic : Information Retrieval</a>
 - <a href="#dm">Research Topic : Data Mining</a>
 - <a href="#iu">Research Topic : Image Understanding</a>
+- <a href="#aa">Academic Activities</a>
 
 ### <a name="ir"></a>[Information Retrieval](https://en.wikipedia.org/wiki/Information_retrieval)
 
@@ -31,13 +32,13 @@ Nowadays, enormous volume of search requests are submitted everyday. For example
 
 This technique aims to extract the knowledge embedded in query logs in order to understand users, facilitate research of relevant fields, such as Information Retrieval and Image Understanding.
 
-### <a name="iu"></a>Image Understanding
+### <a name="iu"></a>[Image Understanding]()
 It refers to the subdiscipline of Artificial Intelligence (AI) that tries to make the computers ***see***.
 
 #### Image Caption Generation
 Given an image, caption generation is the challenging problem of generating a human-readable textual description.
 
-### Academic Activities
+### <a name="aa"></a>[Academic Activities]()
 
 #### Program Committee Member
 
