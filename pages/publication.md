@@ -35,6 +35,16 @@ Fuji Ren and **Hai-Tao Yu**. Role-explicit query extraction and utilization for 
 
 ### <a name="conferencePapers"></a>Peer-reviewed Conference Papers
 
+#### 2019
+
+**Hai-Tao Yu**, Adam Jatowt, Roi Blanco, Joemon Jose and Zhou Ke. A Rank-biased Neural Network Model for Click Modeling. Proceedings of the 2019 Conference on Human Information Interaction & Retrieval, 2019.3.
+
+**Hai-Tao Yu**, Adam Jatowt, Hideo Joho, Joemon Jose, Xiao Yang and Long Chen. WassRank: Listwise Document Ranking Using Optimal Transport Theory. Proceedings of the 12th International Conference on Web Search and Data Mining (WSDM), 2019.2.
+
+#### 2018
+
+Anjie Fang, Iadh Ounis, Craig Macdonald, Philip Habel, Xiaoyu Xiong, **Hai-Tao Yu**. An Effective Approach for Modelling Time Features for Classifying Bursty Topics on Twitter. Proceedings of the 27th ACM International Conference on Information and Knowledge Management (CIKM), 1547-1550, 2018.10.
+
 #### 2017
 
 Long Chen, Joemon Jose, **Hai-Tao Yu**, and Fajie Yuan. A semantic graph-based approach for mining common topics from multiple asynchronous text streams. In Proceedings of the 26th WWW, 2017
