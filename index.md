@@ -9,7 +9,7 @@ description: A computer-science researcher, interested in fields like Informatio
 - <a href="https://twitter.com/twitoogle">@twitoogle</a>
 
 <div class="section" id="conf">
-		    <h4>Related Conferences & Journals</h4>
+		    <h4></h4>
 		    <p> TBA			    
 		    </p>
 </div>
