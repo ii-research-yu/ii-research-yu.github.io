@@ -10,7 +10,7 @@ description: A computer-science researcher, interested in fields like Informatio
 
 <div class="section" id="conf">
 		    <h4></h4>
-		    <p> TBA			    
+		    <p> 			    
 		    </p>
 </div>
 <div class="section" id="conf">
