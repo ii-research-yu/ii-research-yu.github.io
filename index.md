@@ -16,6 +16,6 @@ description: A computer-science researcher, interested in fields like Informatio
 <div class="section" id="conf">
 		    <h4>News</h4>
 		    <p>
-		<a class="twitter-timeline" data-width="520" data-height="500" data-theme="light" href="https://twitter.com/twitoogle?ref_src=twsrc%5Etfw">Tweets by twitoogle</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>			    
+		<a class="twitter-timeline" data-width="720" data-height="500" data-theme="light" href="https://twitter.com/twitoogle?ref_src=twsrc%5Etfw">Tweets by twitoogle</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>			    
 		    </p>
 </div>
