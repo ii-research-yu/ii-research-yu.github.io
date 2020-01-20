@@ -74,5 +74,5 @@ Co-organizer of NTCIR-12 Task on [Temporal Information Access](http://ntcirtempo
 
 #### Professional Memberships
 
-ACM, IEEE
+ACM, IEEE, AAAS
 
