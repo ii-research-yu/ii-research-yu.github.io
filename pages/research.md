@@ -42,6 +42,10 @@ Given an image, caption generation is the challenging problem of generating a hu
 
 #### Program Committee Member
 
+2020: [SIGIR](https://sigir.org/sigir2020/) 
+
+2019: [CIKM](http://cikm2019.org) [ECIR](http://ecir2019.org/)
+
 2018: [CIKM](http://www.cikm2018.units.it) [ECIR](https://www.ecir2018.org) [2nd KG4IR Workshop](https://kg4ir.github.io )
 
 2017: [CIKM](http://cikm2017.org/) [ECIR](http://ecir2017.org/) [AIRS](http://www.airs2017.org) [PIC](http://pic2017.njust.edu.cn)
@@ -51,6 +55,10 @@ Given an image, caption generation is the challenging problem of generating a hu
 2015: [AIRS](http://airs-conference.org/2015/) 
 
 #### Guest Reviewer
+
+2019: [TOIS](https://dl.acm.org/journal/tois) [IPM](https://www.journals.elsevier.com/information-processing-and-management/)
+
+2018: [IRJ](https://link.springer.com/journal/10791)
 
 2017: [JIS](http://journals.sagepub.com/home/jis)
 
