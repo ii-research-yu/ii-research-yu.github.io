@@ -42,7 +42,7 @@ Given an image, caption generation is the challenging problem of generating a hu
 
 #### Program Committee Member
 
-2020: [SIGIR](https://sigir.org/sigir2020/) 
+2020: [SIGIR](https://sigir.org/sigir2020/) [CIKM](https://cikm2020.org/) 
 
 2019: [CIKM](http://cikm2019.org) [ECIR](http://ecir2019.org/)
 
