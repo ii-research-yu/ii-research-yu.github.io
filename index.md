@@ -4,8 +4,8 @@ title: Hai-Tao Yu
 description: A computer-science researcher, interested in fields like Information Retrieval.
 ---
 
-- <a href="https://y-research.github.io">Lab</a>
-- <a href="https://github.com/y-research-yu">Github</a>
+- <a href="https://ii-research.github.io">Lab</a>
+- <a href="https://github.com/ii-research-yu">Github</a>
 - <a href="https://twitter.com/twitoogle">@twitoogle</a>
 
 <div class="section" id="conf">
