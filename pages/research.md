@@ -1,8 +1,10 @@
 ---
 layout: page
-title: Research
+title: Research on Information Intelligence
 description: Hai-Tao Yu's research
 ---
+I'd like to abstract my research as Information Intelligence:
+
 - <a href="#ir">Research Topic : Information Retrieval</a>
 - <a href="#dm">Research Topic : Data Mining</a>
 - <a href="#iu">Research Topic : Image Understanding</a>
