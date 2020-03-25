@@ -3,7 +3,7 @@ layout: page
 title: Research on Information Intelligence
 description: Hai-Tao Yu's research
 ---
-I'd like to abstract my research as Information Intelligence:
+I'd like to abstract my research as **Information Intelligence**, namely retrieving relevant information from large volumes of raw data and transforming them into useful knowledge and actionable intelligence. By now, the main research topics that I have been exploring are as follows:
 
 - <a href="#ir">Research Topic : Information Retrieval</a>
 - <a href="#dm">Research Topic : Data Mining</a>
