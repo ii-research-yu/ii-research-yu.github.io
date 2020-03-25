@@ -6,9 +6,9 @@ description: Hai-Tao Yu's research
 I'd like to abstract my research as **Information Intelligence**, namely retrieving relevant information from large volumes of raw data and transforming them into useful knowledge and actionable intelligence. By now, the main research topics that I have been exploring are as follows:
 
 - <a href="#ir">Research Topic : Information Retrieval</a>
-- <a href="#dm">Research Topic : User Modeling</a>
+- <a href="#uu">Research Topic : User Understanding</a>
 - <a href="#iu">Research Topic : Image Understanding</a>
-- <a href="#iu">Research Topic : Knowledge Graph</a>
+- <a href="#kg">Research Topic : Knowledge Graph</a>
 - <a href="#aa">Academic Activities</a>
 
 ### <a name="ir"></a>[Information Retrieval](https://en.wikipedia.org/wiki/Information_retrieval)
@@ -28,12 +28,15 @@ The technique of Interactive Information Retrieval allows user interaction and p
 #### Design of Evaluation Metric
 This technqiue aims to quantify and compare the effectiveness of different information retrieval methods. The main tasks include designing evaluation metrics, collecting data, building test collections, etc. 
 
-### <a name="dm"></a>[User Modeling]
+### <a name="uu"></a>[User Understanding]
 
-#### User Modeling for Click Prediction
+#### User Modeling
 Nowadays, enormous volume of search requests are submitted everyday. For example, Google processes over 3.5 billion searches per day (according to [Internet Live Stats](http://www.internetlivestats.com/google-search-statistics/)). Query logs capture and store interactions between search engines and their users and comprise a source of rich information regarding the ways in which users express their information needs, seek and select desired information units. 
 
 This technique aims to extract the knowledge embedded in query logs in order to understand users, facilitate research of relevant fields, such as Information Retrieval and Image Understanding.
+
+#### User Intent Identification
+Given an input query, user intent identification is the challenging problem of predicting the possible information needs.
 
 ### <a name="iu"></a>[Image Understanding]()
 It refers to the subdiscipline of Artificial Intelligence (AI) that tries to make the computers ***see***.
@@ -44,7 +47,9 @@ Given an image, caption generation is the challenging problem of generating a hu
 #### Metric Learning
 Metric learning is the task of learning a distance function over images.
 
-### <a name="iu"></a>[Knowledge Graph](https://en.wikipedia.org/wiki/Knowledge_Graph)
+### <a name="kg"></a>[Knowledge Graph](https://en.wikipedia.org/wiki/Knowledge_Graph)
+
+#### Actionable Knowledge Graph
 
 ### <a name="aa"></a>[Academic Activities]()
 
