@@ -50,6 +50,8 @@ Metric learning is the task of learning a distance function over images.
 ### <a name="kg"></a>[Knowledge Graph](https://en.wikipedia.org/wiki/Knowledge_Graph)
 
 #### Actionable Knowledge Graph
+Knowledge graph oriented action prediction and decision making.
+
 
 ### <a name="aa"></a>[Academic Activities]()
 
