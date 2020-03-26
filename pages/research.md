@@ -5,7 +5,7 @@ description: Hai-Tao Yu's research
 ---
 I'd like to abstract my research as **Information Intelligence**, namely retrieving relevant information from large volumes of raw data and transforming them into useful knowledge and actionable intelligence. Here, the **raw data** can be text/image on the web, search log, collection of documents, data observed by robots, etc.
 
-By now, the main research topics that I have been exploring are as follows:
+Towards efficient and effective Information Intelligence, the main research topics that I have been exploring by now are:
 
 - <a href="#ir">Research Topic : Information Retrieval</a>
 - <a href="#uu">Research Topic : User Understanding</a>
