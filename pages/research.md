@@ -3,7 +3,7 @@ layout: page
 title: Research on Information Intelligence
 description: Hai-Tao Yu's research
 ---
-I'd like to abstract my research as **Information Intelligence**, namely retrieving relevant information from large volumes of raw data and transforming them into useful knowledge and actionable intelligence. Here, the **raw data** can be text/image on the web, search log, collection of documents, data observed by robots, etc.
+I'd like to abstract my research as **Information Intelligence**, namely retrieving relevant information from large volumes of raw data and transforming them into useful knowledge and actionable intelligence. Here, the **raw data** can be text/image on the web, search log, collection of documents, data observed by robots, collection of recorded user behaviors, etc.
 
 Towards efficient and effective Information Intelligence, the main research topics that I have been exploring by now are:
 
