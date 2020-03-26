@@ -28,7 +28,7 @@ The technique of Interactive Information Retrieval allows user interaction and p
 #### Design of Evaluation Metric
 This technqiue aims to quantify and compare the effectiveness of different information retrieval methods. The main tasks include designing evaluation metrics, collecting data, building test collections, etc. 
 
-### <a name="uu"></a>[User Understanding]
+### <a name="uu"></a>[User Understanding]()
 
 #### User Modeling
 Nowadays, enormous volume of search requests are submitted everyday. For example, Google processes over 3.5 billion searches per day (according to [Internet Live Stats](http://www.internetlivestats.com/google-search-statistics/)). Query logs capture and store interactions between search engines and their users and comprise a source of rich information regarding the ways in which users express their information needs, seek and select desired information units. 
