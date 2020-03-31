@@ -4,7 +4,7 @@ title: Research on Information Intelligence
 description: Hai-Tao Yu's research
 ---
 
-**I'd like to recruit passionate PhD candidates who are interested in the following research topics. Please contact me!**
+**I'd like to recruit passionate master or PhD candidates who are interested in the following research topics. Please contact me!**
 
 I'd like to abstract my research as **Information Intelligence**, namely retrieving relevant information from large volumes of raw data and transforming them into useful knowledge and actionable intelligence. Here, the **raw data** can be text/image on the web, search log, collection of documents, data observed by robots, collection of recorded user behaviors, etc.
 
