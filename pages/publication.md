@@ -90,8 +90,6 @@ Degen Huang, Lian Zhao, Lishuang Li, and **Hai-Tao Yu**. Mining large-scale comp
 
 Yun Gao, **Hai-Tao Yu**, Xin Kang and Fuji Ren. TUA1 at the TREC 2019: Deep Learning Track. Proceedings of the 28th Text Retrieval Conference, 2019.
 
-Roi Blanco, Hideo Joho, Adam Jatowt, and **Hai-Tao Yu**. Test Collection for Evaluating Actionable Knowledge Graphs. In Proceedings of the First Workshop on Knowledge Graphs and Semantics for Text Retrieval and Analysis (KG4IR), Tokyo, Japan, pp. 32-37 (2017)
-
 #### 2017
 
 Roi Blanco, Hideo Joho, Adam Jatowt, and **Hai-Tao Yu**. Test Collection for Evaluating Actionable Knowledge Graphs. In Proceedings of the First Workshop on Knowledge Graphs and Semantics for Text Retrieval and Analysis (KG4IR), Tokyo, Japan, pp. 32-37 (2017)
