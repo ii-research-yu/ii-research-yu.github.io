@@ -62,6 +62,8 @@ Knowledge graph oriented action prediction and decision making.
 
 #### Program Committee Member
 
+2021: [WSDM](http://www.wsdm-conference.org/2021/) 
+
 2020: [SIGIR](https://sigir.org/sigir2020/) [CIKM](https://cikm2020.org/) 
 
 2019: [CIKM](http://cikm2019.org) [ECIR](http://ecir2019.org/)
